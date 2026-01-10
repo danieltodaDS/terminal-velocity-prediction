@@ -1,6 +1,9 @@
 # Base de dados
 /content
 
+# Template
+template.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
