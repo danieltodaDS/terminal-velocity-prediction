@@ -1,6 +1,10 @@
 # Base de dados
 /content
 
+# Rascunhos
+observacoes.md
+debug_*
+
 # Template
 template.ipynb
 
